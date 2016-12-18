@@ -1,5 +1,8 @@
-# Dota_Mod_SimpleRPG
+# Dota_Mod_Simple_Adventure
 This small project will serve as practice for lua scripting language and using the workshopt tool Hammer. Goal is to:
   1. create a map with a single objective
-  2. modify a existing hero
-  3. use the hero in the map
+  2. modify an existing hero
+    a. change it's stats and stat cain
+    b. give it new abilities, each with unique programming challenges
+    C. give the hero a unique property
+  3. use the hero in the map in some unique way
